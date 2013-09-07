@@ -6,8 +6,7 @@ var calibration = {
 	},
 	camera: {
 		position: [0, 300, 0],
-		look: [0, 0, -1000],
-		up: [0, 1, 0]
+		look: [0, 0, -1000]
 	},
 	hand: {
 		height: 20
